@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  overflow: hidden; /* Hide scrollbars */
+}
+* {
+  font-weight: bold;
+  box-sizing: border-box;
+  color:antiquewhite;
+}
+
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  /*height: 300px;  Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body style="background-color:#222222;">
+
+<div><?php echo "aaa"; ?></div>
+<div class="row">
+  <div class="column">
