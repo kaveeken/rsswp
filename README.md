@@ -2,8 +2,7 @@ This script turns entries from RSS feeds into a html page which is turned into a
 It's not at all portable, and assumes you're on a 1600x900 screen using newsboat, brave and feh.
 
 Example
-![Example]
-(https://github.com/kaveeken/rsswp/blob/master/example.png)
+![Example](https://github.com/kaveeken/rsswp/blob/master/example.png)
 
 # To do
 * Usability system-wide: currently only works if you're in the repository directory
