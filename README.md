@@ -3,7 +3,7 @@ It's not at all portable, and assumes you're on a 1600x900 screen using newsboat
 
 Example
 ![Example]
-(https://github.com/kaveeken/rsswp/example.png)
+(https://github.com/kaveeken/rsswp/blob/master/example.png)
 
 # To do
 * Usability system-wide: currently only works if you're in the repository directory
